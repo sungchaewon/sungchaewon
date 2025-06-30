@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Hi there 👋
-
 🎓 I'm a student majoring in **IT Engineering** at **Sookmyung Women's University**.  
 📊 I'm passionate about **data analysis**, **backend development**, and **AI-based decision-making systems**.  
 🛠️ I document what I learn through real-world projects, technical blogs, and research-oriented readings.  
