@@ -41,7 +41,7 @@
 ### ✍️ Blogs & Portfolio
 
 - 📝 [**Medium (EN)**](https://medium.com/@sungchaewon) *(Coming soon)*
-- 📘 [**GitHub Pages (KR)**](https://sungchaewon.github.io) *(In progress)*
+- 📘 [**GitHub Pages (KR)**](https://sungchaewon.github.io) *(Coming soon)*
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/sungchaewonthisgame/)
 
 ---
@@ -59,4 +59,4 @@
 
 ---
 
-> “Stay curious, stay committed.” 🌱
+> “Start small, stay steay, fo far.” 🌱
