@@ -64,4 +64,4 @@
 
 ---
 
-> “Start small, stay steay, fo far.” 🌱
+> “Start small, stay steay, so far.” 🌱
